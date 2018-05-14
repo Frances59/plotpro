@@ -1,0 +1,2 @@
+name	Options	ReferenceSequence	ConservationScore	GridlinesAtTicks	Conservation	location
+PIK3CA	yes	yes	yes	yes	yes	4

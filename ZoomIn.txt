@@ -1,0 +1,2 @@
+zoomIn	zoomStart	zoomEnd	tickSize
+no	230	303	50

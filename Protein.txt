@@ -1,0 +1,1 @@
+protein.pdf	PIK3CA	463	-0.3	thistle3	plane	20	1.5	Protein names
